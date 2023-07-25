@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tich
-- 👀 I’m interested in Common Lisp, Python, Chisel, DSP and Software Defined Radio 
+- 👀 I’m interested in Common Lisp, Chisel, Clash, VHDL, DSP and Software Defined Radio 
 - 🌱 I’m currently learning Electronics
-- 💞️ I’m looking to collaborate on Common Lisp DSP and Software Defined Radio
+- 💞️ I’m looking to collaborate on Common Lisp, HDL, DSP and Software Defined Radio
 - 📫 How to reach me email me at tichaona [at] kadzinga {dot} com 
 
 <!---
